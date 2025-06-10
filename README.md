@@ -1,15 +1,3 @@
-Você disse:
-Preciso que faça um README.md explicando um resumo do bootcamp: Uma jornada completa para aprender Excel do zero, entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA.
-
-Aproveite 26h de cursos com experts da DIO e Santander e projetos práticos como a criação de um organizador de imposto de renda e um controlador de investimentos e mentorias exclusivas sobre fórmulas e relatórios com IA aplicada ao Excel.
-
-
-O ChatGPT disse:
-Claro! Aqui está um exemplo de um README.md bem estruturado e profissional para descrever o Bootcamp Santander - Excel com Inteligência Artificial:
-
-markdown
-Copiar
-Editar
 # Bootcamp Santander - Excel com Inteligência Artificial 🚀📊
 
 ## 📘 Descrição Geral
