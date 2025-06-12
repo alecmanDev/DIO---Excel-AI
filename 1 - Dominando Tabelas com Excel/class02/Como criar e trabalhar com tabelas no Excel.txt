@@ -1,0 +1,19 @@
+O que é uma tabelas:
+São planos cartesianos: Linhas e Colunas
+O encontro de uma linha e uma coluna = célula
+
+Case Situation:
+Você trabalha em um escritório financeiro como uma pessoa corretora, e está controlando a carteira de compras e vendas de ações de um cliente
+
+Seu Cliente compra apenas as 3 seguintes ações:
+AAPL34 - APPLE
+ATVI34 - ACTIVISION BLIZZARD INC
+NVDC34 (NVIDIA CORP DRN)
+
+Ao final do mês, seu cliente quer saber dia a dia, quais ações foram compradas, a quantidade e qual o valor pago no dia
+
+Tipos de colunas:
+- Colunas de Fatos: Contém valores para análise (ex.: Venda, Lucro, Graus)
+- Coluna Dimensional: Contém valores descritivos (Nome, Categoria, Nome)
+- Coluna Chave: Coluna com identificação única (ID Cliente, CPF, Código de produto)
+- Coluna Calculadas: Criado com fórmulas, para calcular um novo valor
